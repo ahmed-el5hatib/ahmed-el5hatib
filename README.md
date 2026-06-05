@@ -57,6 +57,6 @@ Associate System & Network Engineer with a strong passion for **Cyber Security, 
 ---
 
 ## 📫 Connect with Me
-- 💼 **LinkedIn**: [Ahmed Mahmoud Mohammed](https://linkedin.com) *(Update with your LinkedIn URL)*
-- 🌐 **Portfolio**: [Ahmed's Portfolio Page](https://github.com/ahmed-el5hatib/my-portfolio) *(Available on your private repositories list)*
-- ✉️ **Email**: [ahmed.el5hatib.dev@gmail.com](mailto:ahmed.el5hatib.dev@gmail.com) *(Update with your professional email)*
+- 💼 **LinkedIn**: [Ahmed Mahmoud Mohammed](https://linkedin.com/in/el5hatib1)
+- 🌐 **Portfolio**: [Ahmed's Portfolio Page](https://github.com/ahmed-el5hatib/my-portfolio) *(Private)*
+- ✉️ **Email**: [a.mahmoud@fci.luxor.edu.eg](mailto:a.mahmoud@fci.luxor.edu.eg)
