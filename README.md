@@ -1,62 +1,130 @@
-# Hi, I'm Ahmed Mahmoud (El-khatib) 👋
-### Systems & Network Engineer | Cyber Security & DFIR Analyst
-
-Associate System & Network Engineer with a strong passion for **Cyber Security, Digital Forensics & Incident Response (DFIR)**, and **Malware Analysis**. I build secure, optimized network infrastructures and develop tools for security automation, malware detection, and cryptography.
-
----
-
-## ⚡ Quick About Me
-- 🌐 **Infrastructure**: Expert in Cisco networking, routing and switching, VLAN segmentation, and multi-switch environments.
-- 🛡️ **Security & Forensics**: Enthusiastic about malware detection models, memory forensics, network analysis, and post-quantum cryptography.
-- 🐍 **Development & Automation**: I write robust Python scripts for automation, data analysis, and security utility creation.
-- 🎯 **Current Focus**: Enhancing post-quantum cryptography forensic capabilities and expanding enterprise network configurations.
-
----
-
-## 🛠️ Tech Stack & Tooling
+# Hi there, I'm Ahmed Mahmoud 👋
+<p align="left">
+  <strong>Teaching Assistant & Postgraduate Researcher at the intersection of AI, Cybersecurity, and Infrastructure</strong>
+</p>
 
 <p align="left">
-  <!-- Networks & Systems -->
-  <img src="https://img.shields.io/badge/Cisco-175DDA?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  
-  <!-- Programming & Data -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-
-  <!-- Security Tools -->
-  <img src="https://img.shields.io/badge/Wireshark-167EC6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <a href="https://linkedin.com/in/el5hatib"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:a.mahmoud@fci.luxor.edu.eg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 📁 Key Areas of Focus
+## 🔬 Professional Summary
 
-### 🌐 Networking & Labs
-* **CCNA & Switching**: Design and configuration of scalable campus networks, VLAN trunking, and inter-VLAN routing (Multi-Switch Labs).
-* **Network Security**: Securing routing protocols, access control list (ACL) management, and traffic logging.
+I am a Teaching Assistant and postgraduate researcher specialized in applying **Artificial Intelligence and Machine Learning** to solve complex problems in **Digital Forensics and Cybersecurity**. 
 
-### 🛡️ Cyber Security & Forensics
-* **Malware Analysis**: Researching machine learning models for malware classification and detection.
-* **Memory Forensics**: Developing proof-of-concept tools utilizing PQC (Post-Quantum Cryptography) algorithms like Kyber-512 to study memory forensic extraction in RAM.
-* **DFIR Hub**: Aggregating digital forensics resources, cheatsheets, and investigation templates.
+I have a strong foundation in **enterprise IT infrastructure**—including Windows Server, Active Directory, Linux administration, and secure network operations. My active research focuses on developing explainable machine learning workflows for memory forensics, fileless malware detection, and intelligent threat hunting, with an emphasis on transparency, reproducibility, and forensic integrity.
 
 ---
 
-## 📊 GitHub Profile Statistics
+## 🎯 Areas of Focus & Research
+
+- **Explainable AI (XAI) for SecOps:** Making ML-based malware detection interpretable and defensible for digital forensic investigators.
+- **Post-Quantum Cryptography (PQC):** Engineering crypto-agile middleware (such as DICOM proxies) to protect legacy healthcare infrastructures (PACS) against future quantum threats.
+- **Memory Forensics:** Volatile memory analysis and feature engineering for identifying obfuscated and fileless malware families.
+- **Enterprise System Hardening:** Infrastructure administration, least-privilege enforcement, SIEM monitoring, and vulnerability assessment.
+
+---
+
+## 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🧠 AI & Programming</h3>
+      <ul>
+        <li>Python</li>
+        <li>Scikit-Learn</li>
+        <li>XGBoost</li>
+        <li>Pandas / NumPy</li>
+        <li>Object-Oriented Programming</li>
+        <li>Scripting & Automation</li>
+        <li>Experimental Research Design</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🛡️ Cybersecurity & Forensics</h3>
+      <ul>
+        <li>Digital Forensics</li>
+        <li>Volatile Memory Analysis</li>
+        <li>Incident Response</li>
+        <li>Wazuh SIEM</li>
+        <li>OpenVAS Vulnerability Scan</li>
+        <li>Kaspersky Security Center</li>
+        <li>Windows Internals Hardening</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🌐 Infra & Systems</h3>
+      <ul>
+        <li>Windows Server / Linux</li>
+        <li>Active Directory DS</li>
+        <li>Group Policy Object (GPO)</li>
+        <li>PowerShell Scripting</li>
+        <li>TCP/IP, VLANs, DHCP</li>
+        <li>OSPF, Routing & Switching</li>
+        <li>Infrastructure Automation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+*   **Luxor University (Faculty of Computers and Information)**  
+    **Teaching Assistant** | *Apr 2024 – Present*  
+    *   Instruct and guide undergraduate students in computer science laboratory sessions.
+    *   Connect theoretical foundations with hands-on technical practices in systems, networking, and security.
+
+*   **Egyptian Armed Forces**  
+    **System Administration Officer** | *May 2024 – Apr 2026*  
+    *   Engineered and administered secure network and system infrastructure supporting critical operations.
+    *   Hardened Windows and Linux environments, implemented least-privilege structures, and deployed Wazuh SIEM, OpenVAS, and endpoint protection tools.
+
+---
+
+## 🎓 Education
+
+*   **Postgraduate Research & Studies** | *Feb 2025 – Present*  
+    *Sohag University — Faculty of Computers and Information*  
+    *   Focus: Intelligent computational methods for advanced cybersecurity and threat analysis.
+
+*   **B.Sc. in Information Technology** | *2019 – 2023*  
+    *Luxor University — Faculty of Computers and Information*  
+    *   **GPA: 3.67/4.0** (Graduated with **Distinction with Honors**)
+    *   Core Areas: Computer Networking, System Administration, Cybersecurity, Automation.
+
+---
+
+## 🚀 Key Projects
+
+### 🏥 [MantiQ-Auth](https://github.com/ahmed-el5hatib/MantiQ-Auth)
+A quantum-resistant medical image (DICOM) authentication framework. 
+- Utilizes **ResNet-18** feature extractors and **BCH Error Correction** to compute deterministic robust perceptual hashes.
+- Combines classical **ECDSA-P256** with post-quantum **ML-DSA-65** signatures in a non-separable combiner.
+- Integrates a **Crypto-Agile DICOM Proxy** middleware to dynamically sign and verify images inline between modalities and PACS archives.
+
+### 🔍 Explainable AI (XAI) for Fileless Malware Detection
+Developed ML models to classify fileless malware artifacts in volatile memory. Integrated explainability techniques to translate high-dimensional feature vectors into human-interpretable forensic indicators.
+
+### 🔎 Memory Forensics ML Pipeline (CIC-MalMem-2022)
+Engineered a reproducible data preprocessing and training pipeline to classify obfuscated malware families from memory-dump features.
+
+---
+
+## 📜 Certifications & Training
+
+- **Cyber Attack Defense Training** — Cybersecurity Academy, National Telecommunication Institute (NTI) & EG-CERT (Egyptian Armed Forces)
+- **Active Directory Domain Services & GPO Administration** — Microsoft Training
+- **HCIA DataCom & HCIA Cloud Computing** — Huawei
+- **Network & OS Essentials** — Cisco Network Technician Path
+- **Employability & Professional Communication Skills** — USAID
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-el5hatib&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-el5hatib&layout=compact&theme=nord&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
+  <sub>Profile compiled automatically from verified CV data. Feel free to reach out for research collaboration or academic discussions!</sub>
 </p>
-
----
-
-## 📫 Connect with Me
-- 💼 **LinkedIn**: [Ahmed Mahmoud Mohammed](https://linkedin.com/in/el5hatib1)
-- 🌐 **Portfolio**: [Ahmed's Portfolio Page](https://github.com/ahmed-el5hatib/my-portfolio) *(Private)*
-- ✉️ **Email**: [a.mahmoud@fci.luxor.edu.eg](mailto:a.mahmoud@fci.luxor.edu.eg)
