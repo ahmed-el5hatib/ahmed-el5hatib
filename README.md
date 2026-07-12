@@ -29,6 +29,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-el5hatib&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmed-el5hatib&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ahmed-el5hatib?style=for-the-badge&color=00D4FF&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/ahmed-el5hatib?style=for-the-badge&color=FFD700&label=Stars" alt="Stars" />
 </div>
@@ -36,13 +40,56 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-el5hatib&repo=ahmed-el5hatib&theme=tokyonight&hide_border=true&show_owner=true" alt="Pinned Profile" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-el5hatib&repo=MantiQ-Auth&theme=tokyonight&hide_border=true&show_owner=true" alt="Pinned MantiQ-Auth" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-el5hatib&repo=kyber-memory-forensics&theme=tokyonight&hide_border=true&show_owner=true" alt="Pinned Kyber" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-el5hatib&repo=test-malware-dedect&theme=tokyonight&hide_border=true&show_owner=true" alt="Pinned Malware Detection" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/ahmed-el5hatib/MantiQ-Auth">
+          <img src="https://img.shields.io/badge/MantiQ--Auth-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="MantiQ-Auth" />
+        </a>
+        <br/><br/>
+        <strong>Quantum-Resistant DICOM Authentication</strong><br/>
+        Hybrid classical/post-quantum framework for medical imaging<br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML--DSA-00599C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Healthcare-2EA043?style=flat-square&logo=health&logoColor=white" />
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/ahmed-el5hatib/kyber-memory-forensics">
+          <img src="https://img.shields.io/badge/Kyber--Memory--Forensics-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Kyber Memory Forensics" />
+        </a>
+        <br/><br/>
+        <strong>PQC Key Generation & Forensic Analysis</strong><br/>
+        liboqs-based Kyber-512 utility for Windows memory forensics<br/><br/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kyber-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Forensics-FFD700?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/ahmed-el5hatib/test-malware-dedect">
+          <img src="https://img.shields.io/badge/XAI--Malware--Detection-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Malware Detection" />
+        </a>
+        <br/><br/>
+        <strong>Explainable AI for Fileless Malware</strong><br/>
+        Interpretable ML pipeline for memory forensics<br/><br/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/XAI-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/SecOps-00D4FF?style=flat-square" />
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/ahmed-el5hatib/ahmed-el5hatib">
+          <img src="https://img.shields.io/badge/Profile--README-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Profile README" />
+        </a>
+        <br/><br/>
+        <strong>GitHub Profile Repository</strong><br/>
+        Professional profile with research focus<br/><br/>
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+        <img src="https://img.shields.io/badge/Research-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Open_Source-2EA043?style=flat-square" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -70,7 +117,26 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-el5hatib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-el5hatib&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/ahmed-el5hatib?style=social" alt="Followers" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/ahmed-el5hatib?style=social" alt="Stars" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/following/ahmed-el5hatib?style=social" alt="Following" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-el5hatib&theme=tokyonight&hide_border=true&fire=FF6B6B&currStreakLabel=00D4FF" height="180" alt="streak graph" />
 </div>
 
@@ -417,7 +483,26 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-el5hatib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <h3>💻 Languages & Tools</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
