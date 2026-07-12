@@ -425,11 +425,11 @@
           <strong>Luxor University</strong> | 2019 – 2023<br/>
           Faculty of Computers and Information
         </p>
-        <ul align="left">
-          <li>📊 GPA: <strong>3.67/4.0</strong> (Distinction with Honors)</li>
-          <li>📖 Core: Networking, Systems Admin, Cybersecurity</li>
-          <li>🏆 Graduated with academic excellence</li>
-        </ul>
+          <ul align="left">
+            <li>📊 <strong>Distinction with Honors</strong> · GPA 3.67/4.0</li>
+            <li>📖 Core: Networking, Systems Admin, Cybersecurity</li>
+            <li>🏆 Graduated with academic excellence</li>
+          </ul>
       </td>
     </tr>
   </table>
