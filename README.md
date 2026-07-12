@@ -7,18 +7,13 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/el5hatib">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="36" />
-  </a>
-  <a href="mailto:a.mahmoud@fci.luxor.edu.eg">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" height="36" />
-  </a>
-  <a href="https://ahmed-el5hatib.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Portfolio" height="36" />
-  </a>
-  <a href="https://github.com/ahmed-el5hatib">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" height="36" />
-  </a>
+  <p>
+    <sub>"The best way to predict the future is to invent it." — Alan Kay</sub>
+  </p>
+  <br/>
+  <p>
+    <sub>🛡️ Building the future of quantum-resistant, blockchain-powered secure systems. Open to research collaboration and academic discussions!</sub>
+  </p>
 </div>
 
 <div align="center">
