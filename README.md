@@ -3,7 +3,18 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=700&lines=🔐+Post-Quantum+Cryptography+Researcher;⛓️+Blockchain+Architect;🧠+AI+%26+Cybersecurity+Scientist;🎓+Teaching+Assistant+%7C+Postgraduate+Researcher" alt="Typing SVG" />
+  <a href="mailto:a.mahmoud@fci.luxor.edu.eg">
+    <img src="https://img.shields.io/badge/Post--Quantum_Cryptography-00599C?style=for-the-badge&logo=security&logoColor=white" alt="PQC" />
+  </a>
+  <a href="https://github.com/ahmed-el5hatib/MantiQ-Auth">
+    <img src="https://img.shields.io/badge/Blockchain_Researcher-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain" />
+  </a>
+  <a href="https://github.com/ahmed-el5hatib/kyber-memory-forensics">
+    <img src="https://img.shields.io/badge/AI_%26_Cybersecurity-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AI" />
+  </a>
+  <a href="https://ahmed-el5hatib.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/Teaching_Assistant-00D4FF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="TA" />
+  </a>
 </div>
 
 <div align="center">
@@ -25,7 +36,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-el5hatib&theme=tokyonight&no_frame=true&row=1&column=7&margin=15&title_bg=0,2,30&title=00D4FF" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-el5hatib&repo=ahmed-el5hatib&theme=tokyonight&hide_border=true&show_owner=true" alt="Pinned Profile" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-el5hatib&repo=MantiQ-Auth&theme=tokyonight&hide_border=true&show_owner=true" alt="Pinned MantiQ-Auth" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-el5hatib&repo=kyber-memory-forensics&theme=tokyonight&hide_border=true&show_owner=true" alt="Pinned Kyber" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-el5hatib&repo=test-malware-dedect&theme=tokyonight&hide_border=true&show_owner=true" alt="Pinned Malware Detection" />
 </div>
 
 ---
