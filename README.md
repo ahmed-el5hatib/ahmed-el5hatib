@@ -24,6 +24,35 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-el5hatib&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ahmed-el5hatib?style=for-the-badge&color=00D4FF&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ahmed-el5hatib?style=for-the-badge&color=FFD700&label=Stars" alt="Stars" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-el5hatib&theme=tokyonight&no_frame=true&row=1&column=7&margin=15&title_bg=0,2,30&title=00D4FF" alt="Trophies" />
+</div>
+
+---
+
+## 🔬 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <p align="left">
+          I'm a <strong>Teaching Assistant</strong> and <strong>Postgraduate Researcher</strong> at <strong>Luxor University</strong> and <strong>Sohag University</strong>, Egypt.
+          <br/><br/>
+          My research sits at the intersection of <strong>Blockchain Technologies</strong>, <strong>Post-Quantum Cryptography (PQC)</strong>, and <strong>Explainable AI</strong>.
+          <br/><br/>
+          I engineer <strong>quantum-resistant distributed systems</strong>, design <strong>crypto-agile middleware</strong>, and build interpretable ML pipelines for cybersecurity applications.
+          <br/><br/>
+          Currently focused on developing authentication protocols that survive both classical and quantum-era attacks, with practical deployments in healthcare (DICOM/PACS) and enterprise systems.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -50,6 +79,44 @@
         <h3>⛓️ Quantum-Resistant Blockchain</h3>
         <p align="left">
           Designing blockchain protocols and consensus mechanisms that withstand quantum adversaries. Building <strong>crypto-agile</strong> distributed systems with forward secrecy and quantum-safe authentication layers.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🔥 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🔬 Active Research</h3>
+        <p align="left">
+          • Quantum-resistant DICOM authentication protocols<br/>
+          • Hybrid classical/PQC signature frameworks<br/>
+          • Crypto-agile middleware for healthcare systems<br/>
+          • Memory forensics of lattice-based cryptography
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <h3>📚 Currently Learning</h3>
+        <p align="left">
+          • Zero-knowledge proofs & privacy-preserving blockchains<br/>
+          • NIST PQC migration roadmaps<br/>
+          • Smart contract security auditing<br/>
+          • Cross-chain interoperability protocols
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🚀 Building</h3>
+        <p align="left">
+          • Production-ready PQC integration libraries<br/>
+          • Blockchain security assessment tools<br/>
+          • Reproducible forensic analysis pipelines<br/>
+          • Open-source cryptographic middleware
         </p>
       </td>
     </tr>
