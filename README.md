@@ -139,7 +139,7 @@
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Total_Contributions-1A1B27?style=for-the-badge&labelColor=1A1B27&color=00D4FF" alt="Total" /><br/>
         <h2><!--TOTAL_START-->1,200+<!--TOTAL_END--></h2>
-        <sub>2019 — Present</sub>
+        <sub>2025 — Present</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/🔥_Current_Streak-1A1B27?style=for-the-badge&labelColor=1A1B27&color=FF6B6B" alt="Current Streak" /><br/>
