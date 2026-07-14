@@ -29,10 +29,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-el5hatib&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-el5hatib&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ahmed-el5hatib?style=for-the-badge&color=00D4FF&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/ahmed-el5hatib?style=for-the-badge&color=FFD700&label=Stars" alt="Stars" />
 </div>
@@ -137,7 +133,26 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-el5hatib&theme=tokyonight&hide_border=true&fire=FF6B6B&currStreakLabel=00D4FF" height="180" alt="streak graph" />
+  <h3>🔥 Contribution Streak</h3>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Total_Contributions-1A1B27?style=for-the-badge&labelColor=1A1B27&color=00D4FF" alt="Total" /><br/>
+        <h2>1,200+</h2>
+        <sub>2019 — Present</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🔥_Current_Streak-1A1B27?style=for-the-badge&labelColor=1A1B27&color=FF6B6B" alt="Current Streak" /><br/>
+        <h2>32 Days</h2>
+        <sub>Jun 13, 2026 — Jul 14, 2026</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Longest_Streak-1A1B27?style=for-the-badge&labelColor=1A1B27&color=FFD700" alt="Longest Streak" /><br/>
+        <h2>32 Days</h2>
+        <sub>Jun 13, 2026 — Jul 14, 2026</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
