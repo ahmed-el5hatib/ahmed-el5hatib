@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,30&height=300&width=100%&text=Ahmed%20El-khatib&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=gradient" alt="Hero Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=320&width=100%&text=Ahmed%20El-khatib&desc=Post-Quantum%20Cryptography%20%C2%B7%20Blockchain%20%C2%B7%20Explainable%20AI&fontSize=72&fontAlignY=36&descAlignY=54&descSize=18&animation=twinkling&fontColor=gradient" alt="Hero Banner"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=60&lines=Post-Quantum+Cryptography+Researcher;Quantum-Resistant+Blockchain+Engineer;Explainable+AI+for+Cybersecurity;Teaching+Assistant+%40+Luxor+University" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -18,13 +24,16 @@
 </div>
 
 <div align="center">
-  <p>
-    <sub>"The best way to predict the future is to invent it." — Alan Kay</sub>
-  </p>
   <br/>
-  <p>
-    <sub>🛡️ Building the future of quantum-resistant, blockchain-powered secure systems. Open to research collaboration and academic discussions!</sub>
-  </p>
+  <table>
+    <tr>
+      <td align="center">
+        <sub>&#128142; <em>"The best way to predict the future is to invent it."</em> &#8212; Alan Kay</sub>
+        <br/><br/>
+        <sub>&#128737;&#65039; Building the future of quantum-resistant, blockchain-powered secure systems.<br/>Open to research collaboration and academic discussions!</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -33,7 +42,7 @@
   <img src="https://img.shields.io/github/stars/ahmed-el5hatib?style=for-the-badge&color=FFD700&label=Stars" alt="Stars" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 <div align="center">
   <table>
@@ -88,8 +97,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 ## 🔬 About Me
 
 <div align="center">
@@ -110,8 +118,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-el5hatib&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
 </div>
@@ -155,8 +162,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 ## 🎯 Research Mission
 
 <div align="center">
@@ -178,8 +184,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 ## 🔥 Current Focus
 
 <div align="center">
@@ -216,9 +221,14 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 ## 📊 Technical Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cs,js,solidity,bash,powershell,tensorflow,sklearn,docker,linux,git,github,vscode&theme=dark&perline=14" alt="Skill Icons" />
+</div>
+
+<br/>
 
 <div align="center">
   <table>
@@ -267,8 +277,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 ## 📜 Research & Publications
 
 <div align="center">
@@ -292,8 +301,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -369,8 +377,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 ## 💼 Professional Journey
 
 <div align="center">
@@ -415,8 +422,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 ## 🎓 Academic Credentials
 
 <div align="center">
@@ -450,8 +456,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 ## 🏆 Certifications & Credentials
 
 <div align="center">
@@ -489,8 +494,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -520,8 +524,7 @@
   </table>
 </div>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 <div align="center">
   <h3>🔗 Connect With Me</h3>
   <p>
@@ -541,4 +544,12 @@
   <p>
     <sub>🛡️ Building the future of quantum-resistant, blockchain-powered secure systems. Open to research collaboration and academic discussions!</sub>
   </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=120&width=100%&section=footer&reversal=true" alt="Footer" />
+</div>
+
+<div align="center">
+  <sub>⭐️ From <a href="https://github.com/ahmed-el5hatib">Ahmed El-khatib</a> · Crafted with precision & a passion for quantum-safe security</sub>
 </div>
